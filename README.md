@@ -1,4 +1,4 @@
-# Consultório API - Spring Boot, JWT, JUnit, Regex;
+# Consultório API - Spring Boot, Maven, JWT, JUnit, Regex;
 
 ## Versões
 - Java: 8 (OpenJDK 1.8.0_292);
